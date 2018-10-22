@@ -18,7 +18,7 @@ args = vars(ap.parse_args())
 # maximum number of results for a given search and (2) the group size
 # for results (maximum of 50 per request)
 # TODO: insert your Microsoft API key here. For more info, go to the tutorial link at the top of this README
-API_KEY = "c30cb32f9e084a6d87e308ee0746b264"
+API_KEY = "YOUR KEY GOES HERE."
 MAX_RESULTS = 1000
 GROUP_SIZE = 50
  
